@@ -1,0 +1,23 @@
+PHP:
+  PHP is a server scripting language, and a powerful tool for making dynamic and interactive Web pages
+SYNTAX:
+  <!DOCTYPE html>
+    <html>
+     <body>
+
+     <?php
+     echo "My first PHP script!";
+     ?>
+
+    </body>
+   </html> 
+VARIABLES:
+   Variables are "containers" for storing information.
+      variable for php declaration:$a,$txt,$b etc...
+   PHP has three different variable scopes:
+    local
+    global
+    static
+GLOBAL:A variable declared outside a function has a GLOBAL SCOPE and can only be accessed outside a function
+
+   
